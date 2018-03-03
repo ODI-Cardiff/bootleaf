@@ -1,8 +1,8 @@
 OpenStreetMap Cymru
 ========
 
-Ymgais i greu rhyngwyneb openstreetmap.cymru fel fforc o Bootleaf
-Attempting to create interface for openstreetmap.cymru as a fork of Bootleaf
+Ymgais i greu rhyngwyneb openstreetmap.cymru fel fforc o Bootleaf.
+Attempting to create interface for openstreetmap.cymru as a fork of Bootleaf.
 
 
 Gyda diolch i:
